@@ -18,4 +18,5 @@ dependencies:
   - urllib3=1.26.4
   - python-dateutil=2.8.1
   - requests=2.25.1
+  - pywin32=228
 prefix: /Users/antonio/miniconda3/envs/trainings
