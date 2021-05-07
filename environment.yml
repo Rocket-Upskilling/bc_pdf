@@ -11,4 +11,11 @@ dependencies:
   - scikit-learn=0.24.1
   - pypdf2=1.26.0
   - pdfplumber=0.5.27
+  - bs4=4.9.3
+  - selenium=3.141.0
+  - openpyxl=3.0.7
+  - xlrd=3.0.7
+  - urllib3=1.26.4
+  - python-dateutil=2.8.1
+  - requests=2.25.1
 prefix: /Users/antonio/miniconda3/envs/trainings
