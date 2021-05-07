@@ -1,0 +1,14 @@
+name: bc_pdf
+channels:
+  - defaults
+dependencies:
+  - pandas=1.2.4
+  - matplotlib=3.3.4
+  - numpy=1.19.2
+  - jupyter=1.0.0
+  - python=3.9
+  - ipython=7.22.0
+  - scikit-learn=0.24.1
+  - pypdf2=1.26.0
+  - pdfplumber=0.5.27
+prefix: /Users/antonio/miniconda3/envs/trainings
